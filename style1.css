@@ -1,0 +1,23 @@
+.contain{
+            display: grid;
+            grid-template-columns: 30% 50% 10% ;
+        }
+        input[type=text]{
+            width: 90%;
+            padding: 6px;
+            text-align: center;
+        }
+        h1,h4,h3{text-align: center;}
+        .con{
+            display: flex;
+            align-items: start;
+            justify-content: center;
+            margin-top: 6px;
+        }
+        p{
+            display: flex;
+            align-items: center;
+        }
+        .btntn{
+            text-align: center;
+        }
